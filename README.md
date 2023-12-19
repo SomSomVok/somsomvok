@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently work on MythicIsland.eu, Idobenvagy.com and Aces.hu<br>💻 I'm currently learning HTML, CSS, PHP, JS, NEXT/REACT, DART and C++<br>🤝 I'm looking for help with frontend<br>📷 Fun fact, I love photo/videography
+🔭 I'm currently work on MythicIsland.eu, Idobenvagy.com and Aces.hu<br>💻 I'm currently learning HTML, CSS, PHP, JS, NEXT/REACT, DART and C++<br>🤝 I'm looking for help with frontend<br>📷 Fun fact, I love photo/videography<br>🌐 My website: [![sooma.hu](https://sooma.hu)]
 
 
 ## 🌐 Socials:
