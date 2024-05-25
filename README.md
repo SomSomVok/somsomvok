@@ -1,8 +1,7 @@
 # 💫 Hi!
-Visit my website :world:
-https://sooma.hu
+Visit my website: [sooma.hu](https://sooma.hu)
 
 # 🌍 My projects
-Founder of CodeWave
-Leader of SpotSync
-Owner of WortexNetwork
+- Founder of CodeWave
+- Leader of SpotSync
+- Owner of WortexNetwork
